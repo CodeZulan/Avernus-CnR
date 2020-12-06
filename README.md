@@ -1,1 +1,5 @@
-# Avernus-CnR
+# Avernus Cops and Robbers
+
+```c
+gamamoede
+```
