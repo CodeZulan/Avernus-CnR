@@ -7,210 +7,346 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[15:01:21] 
-[15:01:21] Server Plugins
-[15:01:21] --------------
-[15:01:21]  Loaded 0 plugins.
-
-[15:01:21] 
-[15:01:21] Filterscripts
-[15:01:21] ---------------
-[15:01:21]   Loaded 0 filterscripts.
-
-[15:01:21] 
-----------------------------------
-[15:01:21]  Blank Gamemode by your name here
-[15:01:21] ----------------------------------
-
-[15:01:21] Number of vehicle models: 0
-[15:02:01] [connection] incoming connection: 127.0.0.1:63157 id: 0
-[15:02:01] [join] Roi_Young has joined the server (0:127.0.0.1)
-[15:02:15] [part] Roi_Young has left the server (0:1)
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[15:10:38] 
-[15:10:38] Server Plugins
-[15:10:38] --------------
-[15:10:38]  Loaded 0 plugins.
-
-[15:10:38] 
-[15:10:38] Filterscripts
-[15:10:38] ---------------
-[15:10:38]   Loaded 0 filterscripts.
-
-[15:10:38] 
-----------------------------------
-[15:10:38]  Blank Gamemode by your name here
-[15:10:38] ----------------------------------
-
-[15:10:38] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:50:40] language = ""  (string)
-[16:50:40] 
-[16:50:40] Server Plugins
-[16:50:40] --------------
-[16:50:40]  Loaded 0 plugins.
-
-[16:50:40] 
-[16:50:40] Filterscripts
-[16:50:40] ---------------
-[16:50:40]   Loaded 0 filterscripts.
-
-[16:50:40]    _____                                          _________       __________ 
-[16:50:40]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:50:40]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:50:40] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:50:40] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:50:40]         \/          \/           \/           \/          \/     \/       \/ 
-[16:50:40] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[10:16:47] language = ""  (string)
-[10:16:47] 
-[10:16:47] Server Plugins
-[10:16:47] --------------
-[10:16:47]  Loading plugin: streamer
-[10:16:47] 
+[17:34:22] language = ""  (string)
+[17:34:22] 
+[17:34:22] Server Plugins
+[17:34:22] --------------
+[17:34:22]  Loading plugin: streamer
+[17:34:22] 
 
 *** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[10:16:47]   Loaded.
-[10:16:47]  Loading plugin: sscanf
-[10:16:47] 
+[17:34:22]   Loaded.
+[17:34:22]  Loading plugin: sscanf
+[17:34:22] 
 
-[10:16:47]  ===============================
+[17:34:22]  ===============================
 
-[10:16:47]       sscanf plugin loaded.     
+[17:34:22]       sscanf plugin loaded.     
 
-[10:16:47]          Version:  2.8.3        
+[17:34:22]          Version:  2.8.3        
 
-[10:16:47]   (c) 2018 Alex "Y_Less" Cole  
+[17:34:22]   (c) 2018 Alex "Y_Less" Cole  
 
-[10:16:47]  ===============================
+[17:34:22]  ===============================
 
-[10:16:47]   Loaded.
-[10:16:47]  Loaded 2 plugins.
+[17:34:22]   Loaded.
+[17:34:22]  Loading plugin: nativechecker
+[17:34:22]   Loaded.
+[17:34:22]  Loaded 3 plugins.
 
-[10:16:47] 
-[10:16:47] Filterscripts
-[10:16:47] ---------------
-[10:16:47]   Loaded 0 filterscripts.
+[17:34:22] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:34:22] It needs a gamemode0 line at the very least.
 
-[10:16:47]  
-[10:16:47]  ========================================== 
-[10:16:47]  |                                        | 
-[10:16:47]  |    Generating code, this may take a    | 
-[10:16:47]  |           little bit of time.          | 
-[10:16:47]  |                                        | 
-[10:16:47]  |             Please wait...             | 
-[10:16:47]  |                                        | 
-[10:16:47]  | You can disable this message with:     | 
-[10:16:47]  |                                        | 
-[10:16:47]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
-[10:16:47]  |                                        | 
-[10:16:47]  ========================================== 
-[10:16:47]  |                                        | 
-[10:16:47]  | Note that this code generation works   | 
-[10:16:47]  | best with the JIT plugin, which you    | 
-[10:16:47]  | are not currently using.  Get it here: | 
-[10:16:47]  |                                        | 
-[10:16:47]  |        https://git.io/jit-plugin       | 
-[10:16:47]  |                                        | 
-[10:16:47]  ========================================== 
-[10:16:47]  
-[10:17:04]  
-[10:17:04]  ========================================== 
-[10:17:04]  |                                        | 
-[10:17:04]  |   File dumped to YSI code cache:       | 
-[10:17:04]  |                                        | 
-[10:17:04]  |      scriptfiles/YSI_CACHE.amx         | 
-[10:17:04]  |                                        | 
-[10:17:04]  | Load this file instead to skip this    | 
-[10:17:04]  | code optimisation step in the future.  | 
-[10:17:04]  | Note that if you have multiple scripts | 
-[10:17:04]  | loading at once (i.e. gamemodes,       | 
-[10:17:04]  | filterscripts, and modules) you may    | 
-[10:17:04]  | need to load and cache them            | 
-[10:17:04]  | individually so that they don't        | 
-[10:17:04]  | clobber each other.  If you don't, in  | 
-[10:17:04]  | "server.cfg", the following works:     | 
-[10:17:04]  |                                        | 
-[10:17:04]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
-[10:17:04]  |                                        | 
-[10:17:04]  | You can disable this message with:     | 
-[10:17:04]  |                                        | 
-[10:17:04]  |   #define YSI_NO_CACHE_MESSAGE         | 
-[10:17:04]  |                                        | 
-[10:17:04]  | You can disable this caching with:     | 
-[10:17:04]  |                                        | 
-[10:17:04]  |   #define YSI_NO_MODE_CACHE            | 
-[10:17:04]  |                                        | 
-[10:17:04]  | You can explicitly enable it with:     | 
-[10:17:04]  |                                        | 
-[10:17:04]  |   #define YSI_YES_MODE_CACHE           | 
-[10:17:04]  |                                        | 
-[10:17:04]  ========================================== 
-[10:17:04]  
-[10:17:04]  
-[10:17:04]  
-[10:17:04]  
-[10:17:04]  ========================================== 
-[10:17:04]  |                                        | 
-[10:17:04]  |         YSI version 5.04.0102          | 
-[10:17:04]  |         By Alex "Y_Less" Cole          | 
-[10:17:04]  |                                        | 
-[10:17:04]  | You can disable this message with:     | 
-[10:17:04]  |                                        | 
-[10:17:04]  |   #define YSI_NO_VERSION_CHECK         | 
-[10:17:04]  |                                        | 
-[10:17:04]  ========================================== 
-[10:17:04]  
-[10:17:04]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[10:17:04]    _____                                          _________       __________ 
-[10:17:04]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[10:17:04]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[10:17:04] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[10:17:04] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[10:17:04]         \/          \/           \/           \/          \/     \/       \/ 
-[10:17:04] Number of vehicle models: 0
-[10:17:33] [connection] incoming connection: 127.0.0.1:51778 id: 0
-[10:17:33] [join] Roi_Young has joined the server (0:127.0.0.1)
-[11:33:08] [part] Roi_Young has left the server (0:1)
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:54] language = ""  (string)
+[17:34:54] 
+[17:34:54] Server Plugins
+[17:34:54] --------------
+[17:34:54]  Loading plugin: streamer
+[17:34:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:34:54]   Loaded.
+[17:34:54]  Loading plugin: sscanf
+[17:34:54] 
+
+[17:34:54]  ===============================
+
+[17:34:54]       sscanf plugin loaded.     
+
+[17:34:54]          Version:  2.8.3        
+
+[17:34:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:34:54]  ===============================
+
+[17:34:54]   Loaded.
+[17:34:54]  Loaded 2 plugins.
+
+[17:34:54] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:34:54] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:35:34] language = ""  (string)
+[17:35:34] 
+[17:35:34] Server Plugins
+[17:35:34] --------------
+[17:35:34]  Loading plugin: streamer
+[17:35:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:35:34]   Loaded.
+[17:35:34]  Loading plugin: sscanf
+[17:35:34] 
+
+[17:35:34]  ===============================
+
+[17:35:34]       sscanf plugin loaded.     
+
+[17:35:34]          Version:  2.8.3        
+
+[17:35:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:35:34]  ===============================
+
+[17:35:34]   Loaded.
+[17:35:34]  Loaded 2 plugins.
+
+[17:35:34] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:35:34] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:38:10] language = ""  (string)
+[17:38:10] 
+[17:38:10] Server Plugins
+[17:38:10] --------------
+[17:38:10]  Loading plugin: streamer
+[17:38:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:38:10]   Loaded.
+[17:38:10]  Loading plugin: sscanf
+[17:38:10] 
+
+[17:38:10]  ===============================
+
+[17:38:10]       sscanf plugin loaded.     
+
+[17:38:10]          Version:  2.8.3        
+
+[17:38:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:38:10]  ===============================
+
+[17:38:10]   Loaded.
+[17:38:10]  Loading plugin: crashdetect
+[17:38:10]   Failed.
+[17:38:10]  Loaded 2 plugins.
+
+[17:38:10] 
+[17:38:10] Filterscripts
+[17:38:10] ---------------
+[17:38:10]   Loaded 0 filterscripts.
+
+[17:38:10]  
+[17:38:10]  ========================================== 
+[17:38:10]  |                                        | 
+[17:38:10]  |    Generating code, this may take a    | 
+[17:38:10]  |           little bit of time.          | 
+[17:38:10]  |                                        | 
+[17:38:10]  |             Please wait...             | 
+[17:38:10]  |                                        | 
+[17:38:10]  | You can disable this message with:     | 
+[17:38:10]  |                                        | 
+[17:38:10]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[17:38:10]  |                                        | 
+[17:38:10]  ========================================== 
+[17:38:10]  |                                        | 
+[17:38:10]  | Note that this code generation works   | 
+[17:38:10]  | best with the JIT plugin, which you    | 
+[17:38:10]  | are not currently using.  Get it here: | 
+[17:38:10]  |                                        | 
+[17:38:10]  |        https://git.io/jit-plugin       | 
+[17:38:10]  |                                        | 
+[17:38:10]  ========================================== 
+[17:38:10]  
+[17:38:24]  
+[17:38:24]  ========================================== 
+[17:38:24]  |                                        | 
+[17:38:24]  |   File dumped to YSI code cache:       | 
+[17:38:24]  |                                        | 
+[17:38:24]  |      scriptfiles/YSI_CACHE.amx         | 
+[17:38:24]  |                                        | 
+[17:38:24]  | Load this file instead to skip this    | 
+[17:38:24]  | code optimisation step in the future.  | 
+[17:38:24]  | Note that if you have multiple scripts | 
+[17:38:24]  | loading at once (i.e. gamemodes,       | 
+[17:38:24]  | filterscripts, and modules) you may    | 
+[17:38:24]  | need to load and cache them            | 
+[17:38:24]  | individually so that they don't        | 
+[17:38:24]  | clobber each other.  If you don't, in  | 
+[17:38:24]  | "server.cfg", the following works:     | 
+[17:38:24]  |                                        | 
+[17:38:24]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[17:38:24]  |                                        | 
+[17:38:24]  | You can disable this message with:     | 
+[17:38:24]  |                                        | 
+[17:38:24]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[17:38:24]  |                                        | 
+[17:38:24]  | You can disable this caching with:     | 
+[17:38:24]  |                                        | 
+[17:38:24]  |   #define YSI_NO_MODE_CACHE            | 
+[17:38:24]  |                                        | 
+[17:38:24]  | You can explicitly enable it with:     | 
+[17:38:24]  |                                        | 
+[17:38:24]  |   #define YSI_YES_MODE_CACHE           | 
+[17:38:24]  |                                        | 
+[17:38:24]  ========================================== 
+[17:38:24]  
+[17:38:24]  
+[17:38:24]  
+[17:38:24]  
+[17:38:24]  ========================================== 
+[17:38:24]  |                                        | 
+[17:38:24]  |         YSI version 5.04.0102          | 
+[17:38:24]  |         By Alex "Y_Less" Cole          | 
+[17:38:24]  |                                        | 
+[17:38:24]  | You can disable this message with:     | 
+[17:38:24]  |                                        | 
+[17:38:24]  |   #define YSI_NO_VERSION_CHECK         | 
+[17:38:24]  |                                        | 
+[17:38:24]  ========================================== 
+[17:38:24]  
+[17:38:24]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:38:24]    _____                                          _________       __________ 
+[17:38:24]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[17:38:24]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[17:38:24] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[17:38:24] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[17:38:24]         \/          \/           \/           \/          \/     \/       \/ 
+[17:38:24] Number of vehicle models: 0
+[17:38:53] [connection] incoming connection: 127.0.0.1:53895 id: 0
+[17:38:53] [join] Roi_Young has joined the server (0:127.0.0.1)
+Console input: gmx
+[17:40:42]  
+[17:40:42]  ========================================== 
+[17:40:42]  |                                        | 
+[17:40:42]  |    Generating code, this may take a    | 
+[17:40:42]  |           little bit of time.          | 
+[17:40:42]  |                                        | 
+[17:40:42]  |             Please wait...             | 
+[17:40:42]  |                                        | 
+[17:40:42]  | You can disable this message with:     | 
+[17:40:42]  |                                        | 
+[17:40:42]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
+[17:40:42]  |                                        | 
+[17:40:42]  ========================================== 
+[17:40:42]  |                                        | 
+[17:40:42]  | Note that this code generation works   | 
+[17:40:42]  | best with the JIT plugin, which you    | 
+[17:40:42]  | are not currently using.  Get it here: | 
+[17:40:42]  |                                        | 
+[17:40:42]  |        https://git.io/jit-plugin       | 
+[17:40:42]  |                                        | 
+[17:40:42]  ========================================== 
+[17:40:42]  
+[17:40:57]  
+[17:40:57]  ========================================== 
+[17:40:57]  |                                        | 
+[17:40:57]  |   File dumped to YSI code cache:       | 
+[17:40:57]  |                                        | 
+[17:40:57]  |      scriptfiles/YSI_CACHE.amx         | 
+[17:40:57]  |                                        | 
+[17:40:57]  | Load this file instead to skip this    | 
+[17:40:57]  | code optimisation step in the future.  | 
+[17:40:57]  | Note that if you have multiple scripts | 
+[17:40:57]  | loading at once (i.e. gamemodes,       | 
+[17:40:57]  | filterscripts, and modules) you may    | 
+[17:40:57]  | need to load and cache them            | 
+[17:40:57]  | individually so that they don't        | 
+[17:40:57]  | clobber each other.  If you don't, in  | 
+[17:40:57]  | "server.cfg", the following works:     | 
+[17:40:57]  |                                        | 
+[17:40:57]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
+[17:40:57]  |                                        | 
+[17:40:57]  | You can disable this message with:     | 
+[17:40:57]  |                                        | 
+[17:40:57]  |   #define YSI_NO_CACHE_MESSAGE         | 
+[17:40:57]  |                                        | 
+[17:40:57]  | You can disable this caching with:     | 
+[17:40:57]  |                                        | 
+[17:40:57]  |   #define YSI_NO_MODE_CACHE            | 
+[17:40:57]  |                                        | 
+[17:40:57]  | You can explicitly enable it with:     | 
+[17:40:57]  |                                        | 
+[17:40:57]  |   #define YSI_YES_MODE_CACHE           | 
+[17:40:57]  |                                        | 
+[17:40:57]  ========================================== 
+[17:40:57]  
+[17:40:57]  
+[17:40:57]  
+[17:40:57]  
+[17:40:57]  ========================================== 
+[17:40:57]  |                                        | 
+[17:40:57]  |         YSI version 5.04.0102          | 
+[17:40:57]  |         By Alex "Y_Less" Cole          | 
+[17:40:57]  |                                        | 
+[17:40:57]  | You can disable this message with:     | 
+[17:40:57]  |                                        | 
+[17:40:57]  |   #define YSI_NO_VERSION_CHECK         | 
+[17:40:57]  |                                        | 
+[17:40:57]  ========================================== 
+[17:40:57]  
+[17:40:57]   Filterscript '../scriptfiles/callbackfix.amx' load failed.
+[17:40:57]    _____                                          _________       __________ 
+[17:40:57]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[17:40:57]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[17:40:57] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[17:40:57] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[17:40:57]         \/          \/           \/           \/          \/     \/       \/ 
+[17:40:57] Number of vehicle models: 0
+Console input: gmx
+[17:41:36]  
+[17:41:36]  
+[17:41:36]  
+[17:41:36]  ========================================== 
+[17:41:36]  |                                        | 
+[17:41:36]  |         YSI version 5.04.0102          | 
+[17:41:36]  |         By Alex "Y_Less" Cole          | 
+[17:41:36]  |                                        | 
+[17:41:36]  | You can disable this message with:     | 
+[17:41:36]  |                                        | 
+[17:41:36]  |   #define YSI_NO_VERSION_CHECK         | 
+[17:41:36]  |                                        | 
+[17:41:36]  ========================================== 
+[17:41:36]  
+[17:41:36]   Filterscript '../scriptfiles/callbackfix.amx' load failed.
+[17:41:36]    _____                                          _________       __________ 
+[17:41:36]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[17:41:36]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[17:41:36] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[17:41:36] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[17:41:36]         \/          \/           \/           \/          \/     \/       \/ 
+[17:41:36] Number of vehicle models: 0
 Console input: exit
-[11:46:21] --- Server Shutting Down.
-[11:46:21] 
+[17:51:08] --- Server Shutting Down.
+[17:51:08] [part] Roi_Young has left the server (0:0)
+[17:51:08] 
 
 *** Streamer Plugin v2.9.4 by Incognito unloaded ***
 
-[11:46:21] 
+[17:51:08] 
 
-[11:46:21]  ===============================
+[17:51:08]  ===============================
 
-[11:46:21]      sscanf plugin unloaded.    
+[17:51:08]      sscanf plugin unloaded.    
 
-[11:46:21]  ===============================
+[17:51:08]  ===============================
 
 
 ----------
@@ -221,1170 +357,114 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[11:46:35] language = ""  (string)
-[11:46:35] 
-[11:46:35] Server Plugins
-[11:46:35] --------------
-[11:46:35]  Loading plugin: streamer
-[11:46:35] 
+[17:51:28] language = ""  (string)
+[17:51:28] 
+[17:51:28] Server Plugins
+[17:51:28] --------------
+[17:51:28]  Loading plugin: streamer
+[17:51:28] 
 
 *** Streamer Plugin v2.9.4 by Incognito loaded ***
 
-[11:46:35]   Loaded.
-[11:46:35]  Loading plugin: sscanf
-[11:46:35] 
-
-[11:46:35]  ===============================
-
-[11:46:35]       sscanf plugin loaded.     
-
-[11:46:35]          Version:  2.8.3        
-
-[11:46:35]   (c) 2018 Alex "Y_Less" Cole  
-
-[11:46:35]  ===============================
-
-[11:46:35]   Loaded.
-[11:46:35]  Loaded 2 plugins.
-
-[11:46:35] 
-[11:46:35] Filterscripts
-[11:46:35] ---------------
-[11:46:35]   Loaded 0 filterscripts.
-
-[11:46:35]  
-[11:46:35]  ========================================== 
-[11:46:35]  |                                        | 
-[11:46:35]  |    Generating code, this may take a    | 
-[11:46:35]  |           little bit of time.          | 
-[11:46:35]  |                                        | 
-[11:46:35]  |             Please wait...             | 
-[11:46:35]  |                                        | 
-[11:46:35]  | You can disable this message with:     | 
-[11:46:35]  |                                        | 
-[11:46:35]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
-[11:46:35]  |                                        | 
-[11:46:35]  ========================================== 
-[11:46:35]  |                                        | 
-[11:46:35]  | Note that this code generation works   | 
-[11:46:35]  | best with the JIT plugin, which you    | 
-[11:46:35]  | are not currently using.  Get it here: | 
-[11:46:35]  |                                        | 
-[11:46:35]  |        https://git.io/jit-plugin       | 
-[11:46:35]  |                                        | 
-[11:46:35]  ========================================== 
-[11:46:35]  
-[11:46:56]  
-[11:46:56]  ========================================== 
-[11:46:56]  |                                        | 
-[11:46:56]  |   File dumped to YSI code cache:       | 
-[11:46:56]  |                                        | 
-[11:46:56]  |      scriptfiles/YSI_CACHE.amx         | 
-[11:46:56]  |                                        | 
-[11:46:56]  | Load this file instead to skip this    | 
-[11:46:56]  | code optimisation step in the future.  | 
-[11:46:56]  | Note that if you have multiple scripts | 
-[11:46:56]  | loading at once (i.e. gamemodes,       | 
-[11:46:56]  | filterscripts, and modules) you may    | 
-[11:46:56]  | need to load and cache them            | 
-[11:46:56]  | individually so that they don't        | 
-[11:46:56]  | clobber each other.  If you don't, in  | 
-[11:46:56]  | "server.cfg", the following works:     | 
-[11:46:56]  |                                        | 
-[11:46:56]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
-[11:46:56]  |                                        | 
-[11:46:56]  | You can disable this message with:     | 
-[11:46:56]  |                                        | 
-[11:46:56]  |   #define YSI_NO_CACHE_MESSAGE         | 
-[11:46:56]  |                                        | 
-[11:46:56]  | You can disable this caching with:     | 
-[11:46:56]  |                                        | 
-[11:46:56]  |   #define YSI_NO_MODE_CACHE            | 
-[11:46:56]  |                                        | 
-[11:46:56]  | You can explicitly enable it with:     | 
-[11:46:56]  |                                        | 
-[11:46:56]  |   #define YSI_YES_MODE_CACHE           | 
-[11:46:56]  |                                        | 
-[11:46:56]  ========================================== 
-[11:46:56]  
-[11:46:56]  
-[11:46:56]  
-[11:46:56]  
-[11:46:56]  ========================================== 
-[11:46:56]  |                                        | 
-[11:46:56]  |         YSI version 5.04.0102          | 
-[11:46:56]  |         By Alex "Y_Less" Cole          | 
-[11:46:56]  |                                        | 
-[11:46:56]  | You can disable this message with:     | 
-[11:46:56]  |                                        | 
-[11:46:56]  |   #define YSI_NO_VERSION_CHECK         | 
-[11:46:56]  |                                        | 
-[11:46:56]  ========================================== 
-[11:46:56]  
-[11:46:56]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[11:46:56]    _____                                          _________       __________ 
-[11:46:56]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[11:46:56]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[11:46:56] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[11:46:56] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[11:46:56]         \/          \/           \/           \/          \/     \/       \/ 
-[11:46:56] Number of vehicle models: 0
-Console input: exit
-[11:51:07] --- Server Shutting Down.
-[11:51:07] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[11:51:07] 
-
-[11:51:07]  ===============================
-
-[11:51:07]      sscanf plugin unloaded.    
-
-[11:51:07]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[11:51:20] language = ""  (string)
-[11:51:20] 
-[11:51:20] Server Plugins
-[11:51:20] --------------
-[11:51:20]  Loading plugin: streamer
-[11:51:20] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[11:51:20]   Loaded.
-[11:51:20]  Loading plugin: sscanf
-[11:51:20] 
-
-[11:51:20]  ===============================
-
-[11:51:20]       sscanf plugin loaded.     
-
-[11:51:20]          Version:  2.8.3        
-
-[11:51:20]   (c) 2018 Alex "Y_Less" Cole  
-
-[11:51:20]  ===============================
-
-[11:51:20]   Loaded.
-[11:51:20]  Loaded 2 plugins.
-
-[11:51:20] 
-[11:51:20] Filterscripts
-[11:51:20] ---------------
-[11:51:20]   Loaded 0 filterscripts.
-
-[11:51:20]  
-[11:51:20]  ========================================== 
-[11:51:20]  |                                        | 
-[11:51:20]  |    Generating code, this may take a    | 
-[11:51:20]  |           little bit of time.          | 
-[11:51:20]  |                                        | 
-[11:51:20]  |             Please wait...             | 
-[11:51:20]  |                                        | 
-[11:51:20]  | You can disable this message with:     | 
-[11:51:20]  |                                        | 
-[11:51:20]  |   #define YSI_NO_OPTIMISATION_MESSAGE  | 
-[11:51:20]  |                                        | 
-[11:51:20]  ========================================== 
-[11:51:20]  |                                        | 
-[11:51:20]  | Note that this code generation works   | 
-[11:51:20]  | best with the JIT plugin, which you    | 
-[11:51:20]  | are not currently using.  Get it here: | 
-[11:51:20]  |                                        | 
-[11:51:20]  |        https://git.io/jit-plugin       | 
-[11:51:20]  |                                        | 
-[11:51:20]  ========================================== 
-[11:51:20]  
-[11:51:41]  
-[11:51:41]  ========================================== 
-[11:51:41]  |                                        | 
-[11:51:41]  |   File dumped to YSI code cache:       | 
-[11:51:41]  |                                        | 
-[11:51:41]  |      scriptfiles/YSI_CACHE.amx         | 
-[11:51:41]  |                                        | 
-[11:51:41]  | Load this file instead to skip this    | 
-[11:51:41]  | code optimisation step in the future.  | 
-[11:51:41]  | Note that if you have multiple scripts | 
-[11:51:41]  | loading at once (i.e. gamemodes,       | 
-[11:51:41]  | filterscripts, and modules) you may    | 
-[11:51:41]  | need to load and cache them            | 
-[11:51:41]  | individually so that they don't        | 
-[11:51:41]  | clobber each other.  If you don't, in  | 
-[11:51:41]  | "server.cfg", the following works:     | 
-[11:51:41]  |                                        | 
-[11:51:41]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
-[11:51:41]  |                                        | 
-[11:51:41]  | You can disable this message with:     | 
-[11:51:41]  |                                        | 
-[11:51:41]  |   #define YSI_NO_CACHE_MESSAGE         | 
-[11:51:41]  |                                        | 
-[11:51:41]  | You can disable this caching with:     | 
-[11:51:41]  |                                        | 
-[11:51:41]  |   #define YSI_NO_MODE_CACHE            | 
-[11:51:41]  |                                        | 
-[11:51:41]  | You can explicitly enable it with:     | 
-[11:51:41]  |                                        | 
-[11:51:41]  |   #define YSI_YES_MODE_CACHE           | 
-[11:51:41]  |                                        | 
-[11:51:41]  ========================================== 
-[11:51:41]  
-[11:51:41]  
-[11:51:41]  
-[11:51:41]  
-[11:51:41]  ========================================== 
-[11:51:41]  |                                        | 
-[11:51:41]  |         YSI version 5.04.0102          | 
-[11:51:41]  |         By Alex "Y_Less" Cole          | 
-[11:51:41]  |                                        | 
-[11:51:41]  | You can disable this message with:     | 
-[11:51:41]  |                                        | 
-[11:51:41]  |   #define YSI_NO_VERSION_CHECK         | 
-[11:51:41]  |                                        | 
-[11:51:41]  ========================================== 
-[11:51:41]  
-[11:51:41]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[11:51:41]    _____                                          _________       __________ 
-[11:51:41]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[11:51:41]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[11:51:41] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[11:51:41] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[11:51:41]         \/          \/           \/           \/          \/     \/       \/ 
-[11:51:41] Number of vehicle models: 0
-Console input: exit
-[11:52:00] --- Server Shutting Down.
-[11:52:00] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[11:52:00] 
-
-[11:52:00]  ===============================
-
-[11:52:00]      sscanf plugin unloaded.    
-
-[11:52:00]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[11:52:29] language = ""  (string)
-[11:52:29] 
-[11:52:29] Server Plugins
-[11:52:29] --------------
-[11:52:29]  Loading plugin: streamer
-[11:52:29] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[11:52:29]   Loaded.
-[11:52:29]  Loading plugin: sscanf
-[11:52:29] 
-
-[11:52:29]  ===============================
-
-[11:52:29]       sscanf plugin loaded.     
-
-[11:52:29]          Version:  2.8.3        
-
-[11:52:29]   (c) 2018 Alex "Y_Less" Cole  
-
-[11:52:29]  ===============================
-
-[11:52:29]   Loaded.
-[11:52:29]  Loaded 2 plugins.
-
-[11:52:29] 
-[11:52:29] Filterscripts
-[11:52:29] ---------------
-[11:52:29]   Loaded 0 filterscripts.
-
-[11:52:50]  
-[11:52:50]  ========================================== 
-[11:52:50]  |                                        | 
-[11:52:50]  |   File dumped to YSI code cache:       | 
-[11:52:50]  |                                        | 
-[11:52:50]  |      scriptfiles/YSI_CACHE.amx         | 
-[11:52:50]  |                                        | 
-[11:52:50]  | Load this file instead to skip this    | 
-[11:52:50]  | code optimisation step in the future.  | 
-[11:52:50]  | Note that if you have multiple scripts | 
-[11:52:50]  | loading at once (i.e. gamemodes,       | 
-[11:52:50]  | filterscripts, and modules) you may    | 
-[11:52:50]  | need to load and cache them            | 
-[11:52:50]  | individually so that they don't        | 
-[11:52:50]  | clobber each other.  If you don't, in  | 
-[11:52:50]  | "server.cfg", the following works:     | 
-[11:52:50]  |                                        | 
-[11:52:50]  |   gamemode0 ../scriptfiles/YSI_CACHE 1 | 
-[11:52:50]  |                                        | 
-[11:52:50]  | You can disable this message with:     | 
-[11:52:50]  |                                        | 
-[11:52:50]  |   #define YSI_NO_CACHE_MESSAGE         | 
-[11:52:50]  |                                        | 
-[11:52:50]  | You can disable this caching with:     | 
-[11:52:50]  |                                        | 
-[11:52:50]  |   #define YSI_NO_MODE_CACHE            | 
-[11:52:50]  |                                        | 
-[11:52:50]  | You can explicitly enable it with:     | 
-[11:52:50]  |                                        | 
-[11:52:50]  |   #define YSI_YES_MODE_CACHE           | 
-[11:52:50]  |                                        | 
-[11:52:50]  ========================================== 
-[11:52:50]  
-[11:52:50]  
-[11:52:50]  
-[11:52:50]  
-[11:52:50]  ========================================== 
-[11:52:50]  |                                        | 
-[11:52:50]  |         YSI version 5.04.0102          | 
-[11:52:50]  |         By Alex "Y_Less" Cole          | 
-[11:52:50]  |                                        | 
-[11:52:50]  | You can disable this message with:     | 
-[11:52:50]  |                                        | 
-[11:52:50]  |   #define YSI_NO_VERSION_CHECK         | 
-[11:52:50]  |                                        | 
-[11:52:50]  ========================================== 
-[11:52:50]  
-[11:52:50]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[11:52:50]    _____                                          _________       __________ 
-[11:52:50]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[11:52:50]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[11:52:50] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[11:52:50] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[11:52:50]         \/          \/           \/           \/          \/     \/       \/ 
-[11:52:50] Number of vehicle models: 0
-Console input: exit
-[11:58:45] --- Server Shutting Down.
-[11:58:45] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[11:58:45] 
-
-[11:58:45]  ===============================
-
-[11:58:45]      sscanf plugin unloaded.    
-
-[11:58:45]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[12:03:17] language = ""  (string)
-[12:03:17] 
-[12:03:17] Server Plugins
-[12:03:17] --------------
-[12:03:17]  Loading plugin: streamer
-[12:03:17] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[12:03:17]   Loaded.
-[12:03:17]  Loading plugin: sscanf
-[12:03:17] 
-
-[12:03:17]  ===============================
-
-[12:03:17]       sscanf plugin loaded.     
-
-[12:03:17]          Version:  2.8.3        
-
-[12:03:17]   (c) 2018 Alex "Y_Less" Cole  
-
-[12:03:17]  ===============================
-
-[12:03:17]   Loaded.
-[12:03:17]  Loaded 2 plugins.
-
-[12:03:17] 
-[12:03:17] Filterscripts
-[12:03:17] ---------------
-[12:03:17]   Loaded 0 filterscripts.
-
-[12:03:37]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[12:03:37]    _____                                          _________       __________ 
-[12:03:37]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[12:03:37]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[12:03:37] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[12:03:37] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[12:03:37]         \/          \/           \/           \/          \/     \/       \/ 
-[12:03:37] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[14:48:36] language = ""  (string)
-[14:48:36] 
-[14:48:36] Server Plugins
-[14:48:36] --------------
-[14:48:36]  Loading plugin: streamer
-[14:48:36] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[14:48:36]   Loaded.
-[14:48:36]  Loading plugin: sscanf
-[14:48:36] 
-
-[14:48:36]  ===============================
-
-[14:48:36]       sscanf plugin loaded.     
-
-[14:48:36]          Version:  2.8.3        
-
-[14:48:36]   (c) 2018 Alex "Y_Less" Cole  
-
-[14:48:36]  ===============================
-
-[14:48:36]   Loaded.
-[14:48:36]  Loading plugin: pawncmd
-[14:48:36] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
-[14:48:36]   Loaded.
-[14:48:36]  Loaded 3 plugins.
-
-[14:48:36] 
-[14:48:36] Filterscripts
-[14:48:36] ---------------
-[14:48:36]   Loaded 0 filterscripts.
-
-[14:48:36]    _____                                          _________       __________ 
-[14:48:36]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[14:48:36]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[14:48:36] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[14:48:36] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[14:48:36]         \/          \/           \/           \/          \/     \/       \/ 
-[14:48:36] Number of vehicle models: 0
-[14:49:05] [connection] incoming connection: 127.0.0.1:50682 id: 0
-[14:49:05] [join] Roi_Young has joined the server (0:127.0.0.1)
-[14:53:49] [part] Roi_Young has left the server (0:1)
-Console input: exit
-[15:09:56] --- Server Shutting Down.
-[15:09:56] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[15:09:56] 
-
-[15:09:56]  ===============================
-
-[15:09:56]      sscanf plugin unloaded.    
-
-[15:09:56]  ===============================
-
-[15:09:56] [Pawn.CMD] plugin v3.3.3 by urShadow unloaded
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:33:52] language = ""  (string)
-[16:33:52] 
-[16:33:52] Server Plugins
-[16:33:52] --------------
-[16:33:52]  Loading plugin: streamer
-[16:33:52] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:33:52]   Loaded.
-[16:33:52]  Loading plugin: sscanf
-[16:33:52] 
-
-[16:33:52]  ===============================
-
-[16:33:52]       sscanf plugin loaded.     
-
-[16:33:52]          Version:  2.8.3        
-
-[16:33:52]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:33:52]  ===============================
-
-[16:33:52]   Loaded.
-[16:33:52]  Loading plugin: pawncmd
-[16:33:52] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
-[16:33:52]   Loaded.
-[16:33:52]  Loaded 3 plugins.
-
-[16:33:52] 
-[16:33:52] Filterscripts
-[16:33:52] ---------------
-[16:33:52]   Loaded 0 filterscripts.
-
-[16:33:52]    _____                                          _________       __________ 
-[16:33:52]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:33:52]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:33:52] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:33:52] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:33:52]         \/          \/           \/           \/          \/     \/       \/ 
-[16:33:52] Number of vehicle models: 0
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:34:29] language = ""  (string)
-[16:34:29] 
-[16:34:29] Server Plugins
-[16:34:29] --------------
-[16:34:29]  Loading plugin: streamer
-[16:34:29] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:34:29]   Loaded.
-[16:34:29]  Loading plugin: sscanf
-[16:34:29] 
-
-[16:34:29]  ===============================
-
-[16:34:29]       sscanf plugin loaded.     
-
-[16:34:29]          Version:  2.8.3        
-
-[16:34:29]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:34:29]  ===============================
-
-[16:34:29]   Loaded.
-[16:34:29]  Loading plugin: pawncmd
-[16:34:29] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
-[16:34:29]   Loaded.
-[16:34:29]  Loaded 3 plugins.
-
-[16:34:29] 
-[16:34:29] Filterscripts
-[16:34:29] ---------------
-[16:34:29]   Loaded 0 filterscripts.
-
-[16:34:29]    _____                                          _________       __________ 
-[16:34:29]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:34:29]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:34:29] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:34:29] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:34:29]         \/          \/           \/           \/          \/     \/       \/ 
-[16:34:29] Number of vehicle models: 0
-[16:34:54] [connection] incoming connection: 127.0.0.1:53368 id: 0
-[16:34:54] [join] Roi_Young has joined the server (0:127.0.0.1)
-Console input: exit
-[16:35:20] --- Server Shutting Down.
-[16:35:20] [part] Roi_Young has left the server (0:0)
-[16:35:20] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[16:35:20] 
-
-[16:35:20]  ===============================
-
-[16:35:20]      sscanf plugin unloaded.    
-
-[16:35:20]  ===============================
-
-[16:35:20] [Pawn.CMD] plugin v3.3.3 by urShadow unloaded
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:37:34] language = ""  (string)
-[16:37:34] 
-[16:37:34] Server Plugins
-[16:37:34] --------------
-[16:37:34]  Loading plugin: streamer
-[16:37:34] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:37:34]   Loaded.
-[16:37:34]  Loading plugin: sscanf
-[16:37:34] 
-
-[16:37:34]  ===============================
-
-[16:37:34]       sscanf plugin loaded.     
-
-[16:37:34]          Version:  2.8.3        
-
-[16:37:34]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:37:34]  ===============================
-
-[16:37:34]   Loaded.
-[16:37:34]  Loading plugin: pawncmd
-[16:37:34] [Pawn.CMD] plugin v3.3.3 by urShadow loaded
-[16:37:34]   Loaded.
-[16:37:34]  Loaded 3 plugins.
-
-[16:37:34] 
-[16:37:34] Filterscripts
-[16:37:34] ---------------
-[16:37:34]   Loaded 0 filterscripts.
-
-[16:37:46]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[16:37:46]    _____                                          _________       __________ 
-[16:37:46]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:37:46]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:37:46] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:37:46] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:37:46]         \/          \/           \/           \/          \/     \/       \/ 
-[16:37:46] Number of vehicle models: 0
-Console input: exit
-[16:38:31] --- Server Shutting Down.
-[16:38:31] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[16:38:31] 
-
-[16:38:31]  ===============================
-
-[16:38:31]      sscanf plugin unloaded.    
-
-[16:38:31]  ===============================
-
-[16:38:31] [Pawn.CMD] plugin v3.3.3 by urShadow unloaded
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:52:31] language = ""  (string)
-[16:52:31] 
-[16:52:31] Server Plugins
-[16:52:31] --------------
-[16:52:31]  Loading plugin: streamer
-[16:52:31] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:52:31]   Loaded.
-[16:52:31]  Loading plugin: sscanf
-[16:52:31] 
-
-[16:52:31]  ===============================
-
-[16:52:31]       sscanf plugin loaded.     
-
-[16:52:31]          Version:  2.8.3        
-
-[16:52:31]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:52:31]  ===============================
-
-[16:52:31]   Loaded.
-[16:52:31]  Loaded 2 plugins.
-
-[16:52:31] 
-[16:52:31] Filterscripts
-[16:52:31] ---------------
-[16:52:31]   Loaded 0 filterscripts.
-
-[16:52:43]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[16:52:43]    _____                                          _________       __________ 
-[16:52:43]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:52:43]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:52:43] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:52:43] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:52:43]         \/          \/           \/           \/          \/     \/       \/ 
-[16:52:43] Number of vehicle models: 0
-[16:53:06] [connection] incoming connection: 127.0.0.1:50177 id: 0
-[16:53:06] [join] Roi_Young has joined the server (0:127.0.0.1)
-Console input: exit
-[16:55:47] --- Server Shutting Down.
-[16:55:48] [part] Roi_Young has left the server (0:0)
-[16:55:48] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[16:55:48] 
-
-[16:55:48]  ===============================
-
-[16:55:48]      sscanf plugin unloaded.    
-
-[16:55:48]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:55:50] language = ""  (string)
-[16:55:50] 
-[16:55:50] Server Plugins
-[16:55:50] --------------
-[16:55:50]  Loading plugin: streamer
-[16:55:50] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:55:50]   Loaded.
-[16:55:50]  Loading plugin: sscanf
-[16:55:50] 
-
-[16:55:50]  ===============================
-
-[16:55:50]       sscanf plugin loaded.     
-
-[16:55:50]          Version:  2.8.3        
-
-[16:55:50]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:55:50]  ===============================
-
-[16:55:50]   Loaded.
-[16:55:50]  Loaded 2 plugins.
-
-[16:55:50] 
-[16:55:50] Filterscripts
-[16:55:50] ---------------
-[16:55:50]   Loaded 0 filterscripts.
-
-[16:56:02]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[16:56:02]    _____                                          _________       __________ 
-[16:56:02]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:56:02]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:56:02] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:56:02] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:56:02]         \/          \/           \/           \/          \/     \/       \/ 
-[16:56:02] Number of vehicle models: 0
-Console input: exit
-Console input: sampctl p build
-[16:56:02] Unknown command or variable:
-  sampctl
-[16:56:02] --- Server Shutting Down.
-[16:56:02] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[16:56:02] 
-
-[16:56:02]  ===============================
-
-[16:56:02]      sscanf plugin unloaded.    
-
-[16:56:02]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[16:56:16] language = ""  (string)
-[16:56:16] 
-[16:56:16] Server Plugins
-[16:56:16] --------------
-[16:56:16]  Loading plugin: streamer
-[16:56:16] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[16:56:16]   Loaded.
-[16:56:16]  Loading plugin: sscanf
-[16:56:16] 
-
-[16:56:16]  ===============================
-
-[16:56:16]       sscanf plugin loaded.     
-
-[16:56:16]          Version:  2.8.3        
-
-[16:56:16]   (c) 2018 Alex "Y_Less" Cole  
-
-[16:56:16]  ===============================
-
-[16:56:16]   Loaded.
-[16:56:16]  Loaded 2 plugins.
-
-[16:56:16] 
-[16:56:16] Filterscripts
-[16:56:16] ---------------
-[16:56:16]   Loaded 0 filterscripts.
-
-[16:56:28]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[16:56:28]    _____                                          _________       __________ 
-[16:56:28]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[16:56:28]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[16:56:28] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[16:56:28] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[16:56:28]         \/          \/           \/           \/          \/     \/       \/ 
-[16:56:28] Number of vehicle models: 0
-[16:56:51] [connection] incoming connection: 127.0.0.1:57328 id: 0
-[16:56:51] [join] Roi_Young has joined the server (0:127.0.0.1)
-Console input: exit
-[17:02:19] --- Server Shutting Down.
-[17:02:19] [part] Roi_Young has left the server (0:0)
-[17:02:20] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[17:02:20] 
-
-[17:02:20]  ===============================
-
-[17:02:20]      sscanf plugin unloaded.    
-
-[17:02:20]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:02:31] language = ""  (string)
-[17:02:31] 
-[17:02:31] Server Plugins
-[17:02:31] --------------
-[17:02:31]  Loading plugin: streamer
-[17:02:31] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[17:02:31]   Loaded.
-[17:02:31]  Loading plugin: sscanf
-[17:02:31] 
-
-[17:02:31]  ===============================
-
-[17:02:31]       sscanf plugin loaded.     
-
-[17:02:31]          Version:  2.8.3        
-
-[17:02:31]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:02:31]  ===============================
-
-[17:02:31]   Loaded.
-[17:02:31]  Loaded 2 plugins.
-
-[17:02:31] 
-[17:02:31] Filterscripts
-[17:02:31] ---------------
-[17:02:31]   Loaded 0 filterscripts.
-
-[17:02:43]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[17:02:43]    _____                                          _________       __________ 
-[17:02:43]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[17:02:43]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[17:02:43] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[17:02:43] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[17:02:43]         \/          \/           \/           \/          \/     \/       \/ 
-[17:02:43] Number of vehicle models: 0
-[17:02:56] [connection] incoming connection: 127.0.0.1:64583 id: 0
-[17:02:56] [join] Roi_Young has joined the server (0:127.0.0.1)
-Console input: exit
-[17:07:58] --- Server Shutting Down.
-[17:07:58] [part] Roi_Young has left the server (0:0)
-[17:07:58] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[17:07:58] 
-
-[17:07:58]  ===============================
-
-[17:07:58]      sscanf plugin unloaded.    
-
-[17:07:58]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[17:12:27] language = ""  (string)
-[17:12:27] 
-[17:12:27] Server Plugins
-[17:12:27] --------------
-[17:12:27]  Loading plugin: streamer
-[17:12:27] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[17:12:27]   Loaded.
-[17:12:27]  Loading plugin: sscanf
-[17:12:27] 
-
-[17:12:27]  ===============================
-
-[17:12:27]       sscanf plugin loaded.     
-
-[17:12:27]          Version:  2.8.3        
-
-[17:12:27]   (c) 2018 Alex "Y_Less" Cole  
-
-[17:12:27]  ===============================
-
-[17:12:27]   Loaded.
-[17:12:27]  Loaded 2 plugins.
-
-[17:12:27] 
-[17:12:27] Filterscripts
-[17:12:27] ---------------
-[17:12:27]   Loaded 0 filterscripts.
-
-[17:12:38]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[17:12:38]    _____                                          _________       __________ 
-[17:12:38]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[17:12:38]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[17:12:38] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[17:12:38] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[17:12:38]         \/          \/           \/           \/          \/     \/       \/ 
-[17:12:38] Number of vehicle models: 0
-[17:13:08] [connection] incoming connection: 127.0.0.1:61924 id: 0
-[17:13:08] [join] Roi_Young has joined the server (0:127.0.0.1)
-Console input: exit
-[17:18:38] --- Server Shutting Down.
-[17:18:38] [part] Roi_Young has left the server (0:0)
-[17:18:38] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[17:18:38] 
-
-[17:18:38]  ===============================
-
-[17:18:38]      sscanf plugin unloaded.    
-
-[17:18:38]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[20:38:52] language = ""  (string)
-[20:38:52] 
-[20:38:52] Server Plugins
-[20:38:52] --------------
-[20:38:52]  Loading plugin: streamer
-[20:38:52] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[20:38:52]   Loaded.
-[20:38:52]  Loading plugin: sscanf
-[20:38:52] 
-
-[20:38:52]  ===============================
-
-[20:38:52]       sscanf plugin loaded.     
-
-[20:38:52]          Version:  2.8.3        
-
-[20:38:52]   (c) 2018 Alex "Y_Less" Cole  
-
-[20:38:52]  ===============================
-
-[20:38:52]   Loaded.
-[20:38:52]  Loaded 2 plugins.
-
-[20:38:52] 
-[20:38:52] Filterscripts
-[20:38:52] ---------------
-[20:38:52]   Loaded 0 filterscripts.
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[20:39:24] language = ""  (string)
-[20:39:24] 
-[20:39:24] Server Plugins
-[20:39:24] --------------
-[20:39:24]  Loaded 0 plugins.
-
-[20:39:24] 
-[20:39:24] Filterscripts
-[20:39:24] ---------------
-[20:39:24]   Loaded 0 filterscripts.
-
-[20:39:24] Script[gamemodes/AvernusCnR.amx]: Run time error 19: "File or function is not found"
-[20:39:24] Number of vehicle models: 0
-Console input: exit
-[20:39:31] --- Server Shutting Down.
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[20:39:34] language = ""  (string)
-[20:39:34] 
-[20:39:34] Server Plugins
-[20:39:34] --------------
-[20:39:34]  Loading plugin: streamer
-[20:39:34] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[20:39:34]   Loaded.
-[20:39:34]  Loading plugin: sscanf
-[20:39:34] 
-
-[20:39:34]  ===============================
-
-[20:39:34]       sscanf plugin loaded.     
-
-[20:39:34]          Version:  2.8.3        
-
-[20:39:34]   (c) 2018 Alex "Y_Less" Cole  
-
-[20:39:34]  ===============================
-
-[20:39:34]   Loaded.
-[20:39:34]  Loaded 2 plugins.
-
-[20:39:34] 
-[20:39:34] Filterscripts
-[20:39:34] ---------------
-[20:39:34]   Loaded 0 filterscripts.
-
-[20:39:50]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[20:39:50]    _____                                          _________       __________ 
-[20:39:50]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[20:39:50]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[20:39:50] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[20:39:50] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[20:39:50]         \/          \/           \/           \/          \/     \/       \/ 
-[20:39:50] Number of vehicle models: 0
-[20:40:15] [connection] incoming connection: 127.0.0.1:59546 id: 0
-[20:40:15] [join] Roi_Young has joined the server (0:127.0.0.1)
-[20:40:23] [chat] [Roi_Young]: .
-[20:40:38] [part] Roi_Young has left the server (0:1)
-Console input: exit
-[20:50:38] --- Server Shutting Down.
-[20:50:38] 
-
-*** Streamer Plugin v2.9.4 by Incognito unloaded ***
-
-[20:50:38] 
-
-[20:50:38]  ===============================
-
-[20:50:38]      sscanf plugin unloaded.    
-
-[20:50:38]  ===============================
-
-
-----------
-Loaded log file: "server_log.txt".
-----------
-
-SA-MP Dedicated Server
-----------------------
-v0.3.7-R2, (C)2005-2015 SA-MP Team
-
-[20:54:17] language = ""  (string)
-[20:54:17] 
-[20:54:17] Server Plugins
-[20:54:17] --------------
-[20:54:17]  Loading plugin: streamer
-[20:54:17] 
-
-*** Streamer Plugin v2.9.4 by Incognito loaded ***
-
-[20:54:17]   Loaded.
-[20:54:17]  Loading plugin: sscanf
-[20:54:17] 
-
-[20:54:17]  ===============================
-
-[20:54:17]       sscanf plugin loaded.     
-
-[20:54:17]          Version:  2.8.3        
-
-[20:54:17]   (c) 2018 Alex "Y_Less" Cole  
-
-[20:54:17]  ===============================
-
-[20:54:17]   Loaded.
-[20:54:17]  Loaded 2 plugins.
-
-[20:54:17] 
-[20:54:17] Filterscripts
-[20:54:17] ---------------
-[20:54:17]   Loaded 0 filterscripts.
-
-[20:54:33]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
-[20:54:33]    _____                                          _________       __________ 
-[20:54:33]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
-[20:54:33]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
-[20:54:33] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
-[20:54:33] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
-[20:54:33]         \/          \/           \/           \/          \/     \/       \/ 
-[20:54:33] Number of vehicle models: 0
-[20:54:50] [connection] incoming connection: 127.0.0.1:58144 id: 0
-[20:54:51] [join] Roi_Young has joined the server (0:127.0.0.1)
+[17:51:28]   Loaded.
+[17:51:28]  Loading plugin: sscanf
+[17:51:28] 
+
+[17:51:28]  ===============================
+
+[17:51:28]       sscanf plugin loaded.     
+
+[17:51:28]          Version:  2.8.3        
+
+[17:51:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:51:28]  ===============================
+
+[17:51:28]   Loaded.
+[17:51:28]  Loading plugin: crashdetect
+[17:51:28]   Failed.
+[17:51:28]  Loaded 2 plugins.
+
+[17:51:28] 
+[17:51:28] Filterscripts
+[17:51:28] ---------------
+[17:51:28]   Loaded 0 filterscripts.
+
+[17:51:42]  
+[17:51:42]  
+[17:51:42]  
+[17:51:42]  ========================================== 
+[17:51:42]  |                                        | 
+[17:51:42]  |         YSI version 5.04.0102          | 
+[17:51:42]  |         By Alex "Y_Less" Cole          | 
+[17:51:42]  |                                        | 
+[17:51:42]  | You can disable this message with:     | 
+[17:51:42]  |                                        | 
+[17:51:42]  |   #define YSI_NO_VERSION_CHECK         | 
+[17:51:42]  |                                        | 
+[17:51:42]  ========================================== 
+[17:51:42]  
+[17:51:42]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[17:51:42]    _____                                          _________       __________ 
+[17:51:42]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[17:51:42]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[17:51:42] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[17:51:42] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[17:51:42]         \/          \/           \/           \/          \/     \/       \/ 
+[17:51:42] Number of vehicle models: 0
+Console input: gmx
+[18:49:34]  
+[18:49:34]  
+[18:49:34]  
+[18:49:34]  ========================================== 
+[18:49:34]  |                                        | 
+[18:49:34]  |         YSI version 5.04.0102          | 
+[18:49:34]  |         By Alex "Y_Less" Cole          | 
+[18:49:34]  |                                        | 
+[18:49:34]  | You can disable this message with:     | 
+[18:49:34]  |                                        | 
+[18:49:34]  |   #define YSI_NO_VERSION_CHECK         | 
+[18:49:34]  |                                        | 
+[18:49:34]  ========================================== 
+[18:49:34]  
+[18:49:34]   Filterscript '../scriptfiles/callbackfix.amx' load failed.
+[18:49:34]    _____                                          _________       __________ 
+[18:49:34]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[18:49:34]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[18:49:34] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[18:49:34] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[18:49:34]         \/          \/           \/           \/          \/     \/       \/ 
+[18:49:34] Number of vehicle models: 0
+[18:51:02] [connection] incoming connection: 127.0.0.1:57138 id: 0
+[18:51:02] [join] Roi_Young has joined the server (0:127.0.0.1)
+[19:08:20] [chat] [Roi_Young]: .
+[19:08:21] [chat] [Roi_Young]: .
+[19:08:22] [chat] [Roi_Young]: .
+Console input: gmx
+[19:12:18]  
+[19:12:18]  
+[19:12:18]  
+[19:12:18]  ========================================== 
+[19:12:18]  |                                        | 
+[19:12:18]  |         YSI version 5.04.0102          | 
+[19:12:18]  |         By Alex "Y_Less" Cole          | 
+[19:12:18]  |                                        | 
+[19:12:18]  | You can disable this message with:     | 
+[19:12:18]  |                                        | 
+[19:12:18]  |   #define YSI_NO_VERSION_CHECK         | 
+[19:12:18]  |                                        | 
+[19:12:18]  ========================================== 
+[19:12:18]  
+[19:12:18]   Filterscript '../scriptfiles/callbackfix.amx' load failed.
+[19:12:18]    _____                                          _________       __________ 
+[19:12:18]   /  _  \___  __ ___________  ____  __ __  ______ \_   ___ \  ____\______   \
+[19:12:18]  /  /_\  \  \/ // __ \_  __ \/    \|  |  \/  ___/ /    \  \/ /    \|       _/
+[19:12:18] /    |    \   /\  ___/|  | \/   |  \  |  /\___ \  \     \___|   |  \    |   \
+[19:12:18] \____|__  /\_/  \___  >__|  |___|  /____//____  >  \______  /___|  /____|_  /
+[19:12:18]         \/          \/           \/           \/          \/     \/       \/ 
+[19:12:18] Number of vehicle models: 0
+[19:14:53] [chat] [Roi_Young]: late sinasabi ko wtf
+[19:15:00] [part] Roi_Young has left the server (0:1)
+[19:18:59] [connection] incoming connection: 127.0.0.1:63878 id: 0
+[19:18:59] [join] Roi_Young has joined the server (0:127.0.0.1)
+[19:51:09] [part] Roi_Young has left the server (0:1)

@@ -7,10 +7,11 @@
 		"sampctl/samp-stdlib",
 		"pawn-lang/YSI-Includes@5.x",
 		"samp-incognito/samp-streamer-plugin:v2.9.4",
-		"maddinat0r/sscanf:v2.8.3"
+		"maddinat0r/sscanf:v2.8.3",
+		"Zeex/samp-plugin-crashdetect:v4.20",
+		"Open-GTO/mselect:v1.1.5"
 	],
 	"local": true,
-
 	"runtime": {
 		"version": "0.3.7",
 		"mode": "server",
@@ -49,25 +50,22 @@
 		"cookielogging": false,
 		"output": true
 	},
-
-	"build": {
-		"args": ["-d3", "-;+", "-(+", "-Z+"],
-		"compiler": {
-		  "site": "github.com",
-		  "user": "sampctl",
-		  "repo": "compilers",
-		  "version": "3.10.10"
-		}
-	  },
-	  "builds": [
+	"builds": [
 		{
-		  "name": "AvernusCnR"
-		},
-		{
-		  "name": "unit-tests",
-		  "constants": {
-			"RUN_TESTS": "1"
-		  }
+			"name": "dev",
+			"version": "3.10.10",
+			"args": [
+				"-;+",
+				"-(+",
+				"-d3",
+				"-E",
+				"-Z"
+			],
+			"includes": [
+				"gamemodes/utils",
+				"gamemodes/core"
+			],
+			"compiler": {}
 		}
-	  ]
+	]
 }
