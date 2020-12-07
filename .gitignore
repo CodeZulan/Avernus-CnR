@@ -1,0 +1,5 @@
+dependencies/
+plugins/
+*.exe
+*.txt
+*.cfg
