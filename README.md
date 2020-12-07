@@ -23,6 +23,13 @@ Yes! I welcome contributors for this open-source project check out the tutorial 
 
 ### How do I help?
 ##### 1. So first you need to clone this repository. [https://github.com/CodeZulan/Avernus-CnR.git]
+##### 2. Use sampctl to initialize this repository in your local files and we recommend using Visual Studio Code as your IDE.
+##### 3. then follow these sampctl commands:
+- `sampctl p ensure`
+- `sampctl p build`
+- `sampctl p run`
+if no errors, then everything was done correctly.
+
 ##### 2. Then follow these proper ways on how to make our code clean and uniform.
 - In this gamemode, it's best to use the `K & R` style for brackets all the times to keep the style uniform.
 ```c
@@ -31,6 +38,5 @@ if(IsPlayerConnected(playerid))
     return true;
 }
 ```
-- Use sampctl to initialize this repository in your local files and we recommend using Visual Studio Code as your IDE.
 - We require contributors to make their own module inside the `core` or the `utils` library when making new systems, then include them inside the `core.inc` or `utils.inc`.
 - Make sure to use proper includes on your module, TIP: use my `acnr_colors` include for colors, don't make your own.
